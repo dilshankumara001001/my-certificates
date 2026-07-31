@@ -1,0 +1,8 @@
+7irhppj41epua = cahmod i phone
+
+
+
+netsh wlan show profiles
+
+
+netsh wlan show profile name="iPhone" key=clear
